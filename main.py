@@ -10,8 +10,8 @@ import matplotlib.pyplot as plt
 G = nx.Graph()
 
 movies = 5000
-actors = 10
-plot = True
+actors = 224
+plot = False
 
 print('Lendo dataset')
 
@@ -19,11 +19,13 @@ dataset = pd.read_csv('./tmdb.csv')[:movies]
 dataset.drop(['crew'], inplace=True, axis=1)
 
 print('Construindo grafo')
+c = []
 
 for index, row in dataset.iterrows():
     movie_id = row['movie_id']
     title = row['title']
     cast = json.loads(row['cast'])
+    c.append(len(cast))
     for actor in cast[:actors]:
         if not G.has_node(actor['name']):
             G.add_node(actor['name'])
