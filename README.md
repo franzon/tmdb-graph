@@ -10,7 +10,7 @@ Este projeto consiste em uma aplicação que, dado dois atores, o programa calcu
 
 O programa foi desenvolvido na linguagem de programação Python e algumas bibliotcas da mesma, sendo elas:
 
-- [Net](https://networkx.github.io): como pacote para a criação e manipulação da estrutura de dados.
+- [Networkx](https://networkx.github.io): como pacote para a criação e manipulação da estrutura de dados.
 - [Pandas](https://pandas.pydata.org/): utilizada para a manipulação dos dados.
 - [Matplotlib](https://matplotlib.org/): ferramenta para a plotagem dos grafos.
 
