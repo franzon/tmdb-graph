@@ -14,10 +14,11 @@ O programa foi desenvolvido na linguagem de programação Python e algumas bibli
 
 Cada vértice representa um ator da base de dados. Cada aresta representa uma atuação em conjunto entre dois atores.
 /documentation/stable/reference/algorithms/shortest_paths.html
-Foi utilizado o método shortest_path da biblioteca citada acima para o cálculo da distância mais curta entre um par de vértices. Este método tem como parâmetros: 
-    - G: grafo a ser aplicada a função
-    - Source: Vétice de origem 
-    - Target: Vértice de destino
+Foi utilizado o método shortest_path da biblioteca citada acima para o cálculo da distância mais curta entre um par de vértices. Este método tem como parâmetros:
+
+- G: grafo a ser aplicada a função
+- Source: Vétice de origem
+- Target: Vértice de destino
 
 ## Base de Dados
 
