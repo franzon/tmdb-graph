@@ -10,9 +10,9 @@ Este projeto consiste em uma aplicação que, dado dois atores, o programa calcu
 
 O programa foi desenvolvido na linguagem de programação Python e algumas bibliotcas da mesma, sendo elas:
 
-- [https://networkx.github.io](Networkx): como pacote para a criação e manipulação da estrutura de dados.
-- [https://pandas.pydata.org/](Pandas): utilizada para a manipulação dos dados.
-- [https://matplotlib.org/](Matplotlib): ferramenta para a plotagem dos grafos.
+- [Net](https://networkx.github.io): como pacote para a criação e manipulação da estrutura de dados.
+- [Pandas](https://pandas.pydata.org/): utilizada para a manipulação dos dados.
+- [Matplotlib](https://matplotlib.org/): ferramenta para a plotagem dos grafos.
 
 Cada vértice representa um ator da base de dados. Cada aresta representa uma atuação em conjunto entre dois atores.
 /documentation/stable/reference/algorithms/shortest_paths.html
