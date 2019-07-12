@@ -31,4 +31,4 @@ Foi utilizada a base de dados TMDB, disponibilizada em https://www.kaggle.com/tm
 
 ## Conclusão
 
-Concluímos que o uso de grafos pode auxiliar nas mas diversas aplicações, e que com uma grande disponibilidade de algoritmos e bases de dados é possível fazer coisas realmente úteis e que sirvam realmente para um determinado propósito maior.
+Concluímos que o uso de grafos pode auxiliar nas mais diversas aplicações, e que com uma grande disponibilidade de algoritmos e bases de dados é possível fazer coisas realmente úteis e que sirvam realmente para um determinado propósito maior.
