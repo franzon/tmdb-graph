@@ -27,3 +27,8 @@ E retorna uma lista com o caminho mais curto entre estas duas arestas.
 ## Base de Dados
 
 Foi utilizada a base de dados TMDB, disponibilizada em https://www.kaggle.com/tmdb/tmdb-movie-metadata a qual dispõe os filmes e seus respectivos elencos utilizados para esta aplicação.
+
+
+## Conclusão
+
+Concluímos que o uso de grafos pode auxiliar nas mas diversas aplicações, e que com uma grande disponibilidade de algoritmos e bases de dados é possível fazer coisas realmente úteis e que sirvam realmente para um determinado propósito maior.
